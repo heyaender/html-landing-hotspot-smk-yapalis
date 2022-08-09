@@ -1,0 +1,1 @@
+File hotspot ini digunakan di perangkat MikroTik untuk landing page web login
